@@ -1,6 +1,6 @@
 # app-template-bugout
 
-Template to start a project using node.js to connect to a BugOut server. This is an implementaion of the BugOut client in Node.
+Template to start a project using node.js to connect to a <a href="https://github.com/chr15m/bugout">Bugout</a> server. This is an implementaion of the Bugout client in Node.
 
 Steps to make it work:
 
