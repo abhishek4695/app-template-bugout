@@ -33,4 +33,4 @@ This endpoint just returns the sum of num1 and num2, along with a timestamp.
 
 What is the Point of this?
 
-This is just a proof of concept which can help in connecting to a BugOut server from another Node Application or even a normal app using REST API calls.
+This is just a proof of concept which can help in connecting to a Bugout server from another Node Application or even a normal app using REST API calls.
