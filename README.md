@@ -11,6 +11,7 @@ Steps to make it work:
 5. Run this is a separate terminal window (if running server.js) : node test-client.js
 6. You should see this in terminal : Example app listening on port 3000
 7. To communicate with the client, we need to give it the server's address. Run the following command in terminal (make sure curl is installed, if on windows, run the command from a bash terminal like git-bash):
+
 curl --location --request POST 'http://localhost:3000/setAddress' \
 --header 'Content-Type: application/json' \
 --data-raw '{
