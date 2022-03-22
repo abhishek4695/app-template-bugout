@@ -18,7 +18,7 @@ curl --location --request POST 'http://localhost:3000/setAddress' \
     "address": "<Server Address Here - we got from step 4>"
 }'
 
-This will take 5-10 seconds for the connection to be established. Once connected verify connection by hitting a GET request on localhost:3000/ or just enter localhost:3000 in a browser window. If you can see connected: true, the connection is successful.
+This will take 5-10 seconds for the connection to be established. Once connected verify connection by hitting a GET request on http://localhost:3000/ or just enter http://localhost:3000 in a browser window. If you can see connected: true, the connection is successful.
 
 8. Make a RPC call by hitting the following request using cURL:
 
