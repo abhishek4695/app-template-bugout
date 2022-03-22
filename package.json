@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "bugout": "0.0.1",
+    "express": "^4.17.3",
+    "webtorrent": "^0.102.4",
+    "wrtc": "^0.4.7"
+  }
+}
